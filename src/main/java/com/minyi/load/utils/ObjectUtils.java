@@ -1,4 +1,4 @@
-package com.minyi.load.model;
+package com.minyi.load.utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

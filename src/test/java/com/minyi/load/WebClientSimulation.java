@@ -1,7 +1,7 @@
 package com.minyi.load;
 
-import com.minyi.load.model.ObjectUtils;
 import com.minyi.load.model.Order;
+import com.minyi.load.utils.ObjectUtils;
 import io.gatling.javaapi.core.*;
 import io.gatling.javaapi.http.*;
 
